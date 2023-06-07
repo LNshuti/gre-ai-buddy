@@ -23,7 +23,7 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "GREEAIBuddy",
+            name: "GREAIBuddy",
             dependencies: [
                 .product(name: "NIO", package: "swift-nio"),
                 .product(name: "ArgumentParser", package: "swift-argument-parser"),
@@ -32,7 +32,7 @@ let package = Package(
                 // Add other target dependencies as needed.
             ]),
         .testTarget(
-            name: "GREEAIBuddy",
-            dependencies: ["GREEAIBuddy"]),
+            name: "GREAIBuddy",
+            dependencies: ["GREAIBuddy"]),
     ]
 )
