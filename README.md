@@ -2,11 +2,8 @@
 
 
 <div class="row">
-  <img width=20% src="logo/logo_transparent.png" alt="Logo" /> 
+  <img width=35% src="logo/logo_transparent.png" alt="Logo" /> 
 </div>
-
-
-# ![Study Buddy Logo](logo/logo_transparent.png)
 
 ## Overview
 
