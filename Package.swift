@@ -32,7 +32,7 @@ let package = Package(
                 // Add other target dependencies as needed.
             ]),
         .testTarget(
-            name: "GREEAIBuddyTests",
+            name: "GREEAIBuddy",
             dependencies: ["GREEAIBuddy"]),
     ]
 )
