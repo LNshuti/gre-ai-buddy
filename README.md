@@ -24,27 +24,6 @@ The GREE AI Study Buddy offers a range of features to enhance your GRE preparati
 
 6. **Study Reminders**: Set personalized study reminders and notifications to help you stay on track with your study plan and maintain consistency.
 
-## Getting Started
-
-To get started with the GREE AI Study Buddy, follow these steps:
-
-1. **Clone the Repository**: Clone this GitHub repository to your local machine using the following command:
-
-   ```
-   git clone https://github.com/your-username/gree-ai-study-buddy.git
-   ```
-
-2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies by running the following command:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. **Configure API Keys**: Obtain the required API keys for the natural language processing services utilized by the AI agent. Update the configuration file (`config.ini`) with your API keys.
-
-4. **Run the Application**: Execute the main application file (`study_buddy.py`) to launch the GREE AI Study Buddy. The application will run locally and can be accessed through a web browser at `http://localhost:5000`.
-
-5. **Interact with the AI Agent**: Use the web interface to interact with the AI agent, create study plans, attempt practice questions, review performance analytics, and leverage the various features provided.
 
 ## Contributing
 
