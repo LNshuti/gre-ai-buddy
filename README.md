@@ -6,7 +6,7 @@
 
 Welcome to the GREE AI Study Buddy project! This GitHub repository hosts an AI agent designed to assist users in preparing for the GRE (Graduate Record Examination). The GREE AI Study Buddy leverages artificial intelligence and natural language processing techniques to provide a personalized and interactive study experience for individuals aspiring to excel in the GRE.
 
-###= Features
+### Features
 
 The GREE AI Study Buddy offers a range of features to enhance your GRE preparation:
 
