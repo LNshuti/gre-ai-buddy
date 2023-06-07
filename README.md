@@ -1,7 +1,5 @@
 ## **GREE AI Study Buddy:** AI Agent to Manage Preparing for the GRE
 
-# GREE AI Study Buddy
-
 ![Study Buddy Logo](logo/logo_transparent.png)
 
 ## Overview
