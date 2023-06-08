@@ -6,7 +6,7 @@ from langchain.llms import OpenAI
 from langchain.chains.conversation.memory import ConversationBufferMemory
 
 def load_documents():
-    loader = SimpleDirectoryReader('./data', recursive=True, exclude_hidden=True)
+    loader = SimpleDirectoryReader('./GRE*', recursive=True, exclude_hidden=True)
     documents = loader.load_data()
     return documents
 
