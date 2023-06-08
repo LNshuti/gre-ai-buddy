@@ -1,3 +1,6 @@
 streamlit
 llama_hub
 langchain
+sentencepiece
+accelerate
+transformers
