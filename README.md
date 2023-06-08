@@ -1,5 +1,5 @@
 <div class="row">
-  <img width=25% src="logo/logo_transparent.png" alt="Logo" /> 
+  <img width=30% src="logo/logo_transparent.png" alt="Logo" /> 
 </div>
 
 ### 🎓 **GREE AI Study Buddy:** AI Agent to Manage Preparing for the GRE
