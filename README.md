@@ -25,11 +25,12 @@ The GREE AI Study Buddy offers a range of features to enhance your GRE preparati
 ### Technology Stack 
 
 
-**Front End:**  Radix UI and Tailwind CSS
-**Back End:** Rails 
-**Database:** Supabase, DuckDb, Postgresql
-**Deployment:** AWS 
-**ML:** Python(Duck
+1. **Front End:**  Radix UI and Tailwind CSS
+2. **Back End:** Rails 
+3. **Database:** Supabase, DuckDb, Postgresql
+4. **Deployment:** AWS 
+5. **ML:** Python, Pytorch, Sklearn, Statsmodels
+
 
 
 ### Contributing
