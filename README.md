@@ -22,6 +22,15 @@ The GREE AI Study Buddy offers a range of features to enhance your GRE preparati
 
 6. **Study Reminders**: Set personalized study reminders and notifications to help you stay on track with your study plan and maintain consistency.
 
+### Technology Stack 
+
+
+**Front End:**  Radix UI and Tailwind CSS
+**Back End:** Rails 
+**Database:** Supabase, DuckDb, Postgresql
+**Deployment:** AWS 
+**ML:** Python(Duck
+
 
 ### Contributing
 
