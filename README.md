@@ -47,3 +47,7 @@ When contributing, please adhere to the following guidelines:
 ### License
 
 The GREE AI Study Buddy project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the codebase for personal or commercial purposes.
+
+### References
+
+The backend code is from Nat Friedman's Openplayground repo. 
