@@ -24,14 +24,20 @@ The GREE AI Study Buddy offers a range of features to enhance your GRE preparati
 
 ### Technology Stack 
 
-
 1. **Front End:**  Radix UI and Tailwind CSS
 2. **Back End:** Rails 
-3. **Database:** Supabase, DuckDb, Postgresql
+3. **Database:** Supabase, DuckDb, Postgresql, DyanamoDB
 4. **Deployment:** AWS 
 5. **ML:** Python, Pytorch, Sklearn, Statsmodels
 
 
+## Architecture 
+ 
+* **AWS Fargate:** Serverless compute engine for containers that work with Amazon Elastic Container service and Amazon Elastic Kubernetes Services. 
+* **FLYIO:** Hosting platform for distributed applications with API that manage global application deployments. 
+* **Managed Database:** DyanamoDB
+
+![image](https://github.com/LNshuti/govgpt/assets/13305262/84a5db54-5385-4a23-9951-e916e6a25bc3)
 
 ### Contributing
 
