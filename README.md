@@ -35,7 +35,16 @@ The GREE AI Study Buddy offers a range of features to enhance your GRE preparati
  
 * **AWS Fargate:** Serverless compute engine for containers that work with Amazon Elastic Container service and Amazon Elastic Kubernetes Services. 
 * **FLYIO:** Hosting platform for distributed applications with API that manage global application deployments. 
-* **Managed Database:** DyanamoDB
+* **Managed Database:** DyanamoDB or Pinecone or Weaviate
+
+
+The application uses:
+---------------------
+
+**LLamaIndex** Data loaders to load pdf documents consisting of GRE study materials from drive. 
+
+**Pinecone** to store embeddings of GRE study materials. 
+
 
 ![image](https://github.com/LNshuti/govgpt/assets/13305262/84a5db54-5385-4a23-9951-e916e6a25bc3)
 
