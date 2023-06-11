@@ -1,3 +1,8 @@
+
+# Ignore .env and .env.local files
+.env
+.env.local
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -163,6 +168,3 @@ cython_debug/
 
 # .gitignore
 
-# Ignore .env and .env.local files
-.env
-.env.local
