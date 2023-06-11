@@ -1,8 +1,3 @@
-<div class="row" style="display: flex; justify-content: space-between; align-items: center;>
-  <img width=30% src="logo/logo_transparent.png" alt="Logo"/> 
-  <img width=30% src="design/IOS/Download_on_the_App_Store.svg" alt="Second image" style="order: 2;"/> 
-
-</div>
 
 ### 🎓 **GREE AI Study Buddy:** AI Agent to Manage Preparing for the GRE
 
@@ -68,3 +63,11 @@ The GREE AI Study Buddy project is licensed under the [MIT License](LICENSE). Yo
 ### References
 
 The backend code is from Nat Friedman's Openplayground repo. 
+
+## Coming Soon!
+
+<div class="row" style="display: flex; justify-content: space-between; align-items: center;>
+  <img width=30% src="logo/logo_transparent.png" alt="Logo"/> 
+  <img width=30% src="design/IOS/Download_on_the_App_Store.svg" alt="Second image" style="order: 2;"/> 
+
+</div>
