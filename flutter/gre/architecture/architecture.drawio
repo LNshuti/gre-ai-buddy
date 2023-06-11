@@ -1,26 +1,29 @@
 <mxfile host="65bd71144e">
     <diagram id="UGzyJg7uymgrEgvPrphl" name="Page-1">
-        <mxGraphModel dx="1791" dy="951" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1791" dy="393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-                    <mxGeometry x="444" y="50" width="60" height="60" as="geometry"/>
+                    <mxGeometry x="291" y="41" width="60" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="&lt;b&gt;&lt;font color=&quot;#f5f0f0&quot; style=&quot;font-size: 15px;&quot;&gt;Supabase&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="441" y="125" width="77" height="23" as="geometry"/>
+                    <mxGeometry x="288" y="116" width="77" height="23" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;fontSize=15;fontColor=#f5f0f0;" vertex="1" parent="1">
                     <mxGeometry x="74" y="129" width="76.5" height="93" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="&lt;b&gt;&lt;font color=&quot;#f5f0f0&quot; style=&quot;font-size: 15px;&quot;&gt;S3 Repo&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="78" y="232" width="77" height="23" as="geometry"/>
+                <mxCell id="6" value="&lt;b&gt;&lt;font color=&quot;#f5f0f0&quot; style=&quot;font-size: 15px;&quot;&gt;AWS S3 Repo&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="232" width="112" height="23" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;fontSize=15;fontColor=#f5f0f0;" vertex="1" parent="1">
                     <mxGeometry x="715" y="152" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" value="&lt;font size=&quot;1&quot; color=&quot;#f5f0f0&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Client Device&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="721" y="242" width="86" height="23" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Application_128x128.png;fontSize=13;fontColor=#f5f0f0;" vertex="1" parent="1">
+                    <mxGeometry x="445" y="41" width="80" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
