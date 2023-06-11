@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="UGzyJg7uymgrEgvPrphl" name="Page-1">
-        <mxGraphModel dx="950" dy="523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1900" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -33,7 +33,7 @@
                 <mxCell id="9" value="" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Application_128x128.png;fontSize=13;fontColor=#f5f0f0;" parent="1" vertex="1">
                     <mxGeometry x="445" y="41" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+                <mxCell id="10" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#FFFFFF;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
                     <mxGeometry x="508" y="550" width="87" height="98" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="&lt;b&gt;&lt;font color=&quot;#f5f0f0&quot; style=&quot;font-size: 15px;&quot;&gt;Snowflake&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
