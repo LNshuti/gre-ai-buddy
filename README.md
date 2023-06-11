@@ -1,5 +1,7 @@
 <div class="row">
   <img width=30% src="logo/logo_transparent.png" alt="Logo" /> 
+    <img width=30% src="design/IOS/Download_on_the_App_Store.svg" alt="Second image" style="order: 2;"/> 
+
 </div>
 
 ### 🎓 **GREE AI Study Buddy:** AI Agent to Manage Preparing for the GRE
