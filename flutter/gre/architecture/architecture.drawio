@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="UGzyJg7uymgrEgvPrphl" name="Page-1">
-        <mxGraphModel dx="699" dy="446" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="950" dy="523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -10,26 +10,34 @@
                 <mxCell id="4" value="&lt;b&gt;&lt;font color=&quot;#f5f0f0&quot; style=&quot;font-size: 15px;&quot;&gt;Supabase&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="288" y="116" width="77" height="23" as="geometry"/>
                 </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="494.72215270996094" y="389.9474868774414" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;fontSize=15;fontColor=#f5f0f0;" parent="1" vertex="1">
-                    <mxGeometry x="74" y="129" width="76.5" height="93" as="geometry"/>
+                    <mxGeometry x="346.5" y="550" width="76.5" height="93" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="&lt;b&gt;&lt;font color=&quot;#f5f0f0&quot; style=&quot;font-size: 15px;&quot;&gt;AWS S3 Repo&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="60" y="232" width="112" height="23" as="geometry"/>
+                    <mxGeometry x="334" y="656" width="112" height="23" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;fontSize=15;fontColor=#f5f0f0;" parent="1" vertex="1">
-                    <mxGeometry x="715" y="152" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="493" y="276" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" value="&lt;font size=&quot;1&quot; color=&quot;#f5f0f0&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Client Device&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="721" y="242" width="86" height="23" as="geometry"/>
+                    <mxGeometry x="499" y="366" width="86" height="23" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" value="" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Application_128x128.png;fontSize=13;fontColor=#f5f0f0;" parent="1" vertex="1">
                     <mxGeometry x="445" y="41" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-                    <mxGeometry x="299" y="235" width="87" height="98" as="geometry"/>
+                    <mxGeometry x="508" y="550" width="87" height="98" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="&lt;b&gt;&lt;font color=&quot;#f5f0f0&quot; style=&quot;font-size: 15px;&quot;&gt;Snowflake&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="311" y="339" width="77" height="23" as="geometry"/>
+                    <mxGeometry x="520" y="654" width="77" height="23" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
