@@ -1,4 +1,4 @@
-
+aws/
 # Ignore .env and .env.local files
 .env
 .env.local
