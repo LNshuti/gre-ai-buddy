@@ -64,7 +64,7 @@ The GREE AI Study Buddy project is licensed under the [MIT License](LICENSE). Yo
 
 The backend code is from Nat Friedman's Openplayground repo. 
 
-# 🎉 Join the GREE AI Study Buddy Waitlist! 🎉
+# 🎉 Join the Study Buddy Waitlist! 🎉
 
 Thank you for your interest in the GREE AI Study Buddy project! We are excited to bring you an AI-powered study tool for GRE preparation.
 
